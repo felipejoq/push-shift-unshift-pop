@@ -20,7 +20,7 @@ animales.unshift('jirafa');
 console.log(animales);
 
 // Pop para quitar el primer elemento de un arreglo.
-console.log('Aplicando método pop()');
-animales.pop();
+console.log('Aplicando método shift()');
+animales.shift();
 console.log(animales);
 
